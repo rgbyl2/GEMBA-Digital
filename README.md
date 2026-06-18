@@ -1,2 +1,20 @@
-# GEMBA-Digital
-Digital platform for Gemba Walks, TPM observations, action tracking and operational excellence management.
+GEMBA360
+│
+├── README.md
+├── docs
+│   ├── Vision.md
+│   ├── Requirements.md
+│   ├── UserStories.md
+│
+├── database
+│   ├── DataModel.xlsx
+│
+├── mockups
+│   ├── HomeScreen.png
+│   ├── NewFinding.png
+│
+├── dashboards
+│   ├── PowerBI
+│
+└── app
+    ├── AppSheet
